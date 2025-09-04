@@ -2,7 +2,7 @@
 # Exercícios de Algoritmos Recursivos
 
 ### 1. **Cálculo do Fatorial de um Número**
-   **Enunciado:**  
+    
    O fatorial de um número \( N \) é o produto de todos os números inteiros de 1 até \( N \). Ou seja, \( N! = N 	imes (N-1) 	imes (N-2) 	imes \dots 	imes 1 \).  
    **Exemplo:** O fatorial de 5 é \( 5! = 5 	imes 4 	imes 3 	imes 2 	imes 1 = 120 \).  
    Sua tarefa é implementar um algoritmo recursivo que calcule o fatorial de um número \( N \), utilizando a fórmula recursiva:  
